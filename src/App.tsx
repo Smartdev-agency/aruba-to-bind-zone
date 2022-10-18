@@ -54,7 +54,7 @@ function App() {
     initialValues: {
       fileUpload: {},
       domainName: '',
-      serverMail: false
+      serverMail: true
     }
   });
 
